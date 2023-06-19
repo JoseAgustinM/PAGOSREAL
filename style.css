@@ -30,9 +30,6 @@ button{
     height: 30%;
     width:30%
 }
-#anuncio{
-    border: solid;
-}
 .paypal{
     position: absolute;
     text-align: left;
@@ -43,8 +40,8 @@ button{
     height: 50%;
 }
 #bancard{
-    width: 50%;
-    height: 50%; 
+    width: 30%;
+    height: 30%; 
 }
 .hombre{
     position: absolute;
